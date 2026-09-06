@@ -1,78 +1,68 @@
 # Hi, I'm Shivam Pahuja 👋
 
-🎓 **CSE Student @ Chitkara University**
-💻 **Aspiring Backend Developer** | 🧠 DSA & Problem Solving
+🎓 CSE Student @ Chitkara University  
+💻 Aspiring Backend Developer | 🧠 DSA & Problem Solving
 
-I enjoy learning how things work behind the scenes and building my skills in programming and backend development.
+> Building my skills in backend development, problem solving, and software engineering.
 
-## 🛠️ Technologies
+---
 
-### Languages
-
-* ☕ **Java** — OOP & backend development
-* ⚡ **C++** — DSA & problem solving
-* 🔧 **C** — Programming fundamentals
-* 🐍 **Python** — Programming & scripting
-* 🟨 **JavaScript** — Web & backend development
-
-### Backend
+## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript,nodejs,express,html,css,mongodb,postgresql,mysql,git,github,linux,vscode,postman,yaml&perline=18" height="35"/>
 </p>
 
-* 🟢 **Node.js** — Server-side applications & REST APIs
+**Languages:** Java · C · C++ · Python · JavaScript  
+**Backend:** Node.js · Express.js · REST APIs  
+**Databases:** MongoDB · PostgreSQL · MySQL  
+**Tools:** Git · GitHub · Linux · VS Code · Postman · YAML
 
-## 🧠 DSA
+---
 
-Currently practicing **Data Structures & Algorithms** and improving problem-solving skills through LeetCode.
+## 🧠 DSA & Problem Solving
 
-<a href="https://leetcode.com/u/Shivampahuja/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+Currently practicing **Data Structures & Algorithms** and solving problems on LeetCode.
+
+<p>
+  <a href="https://leetcode.com/u/Shivampahuja/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="28"/>
+  </a>
+</p>
+
+---
 
 ## 🌱 Currently Learning
 
-**Backend Development • REST APIs • Databases • Authentication • System Design**
+`Backend Development` · `REST APIs` · `Databases` · `Authentication` · `System Design`
+
+---
 
 ## 🎯 Goals
 
-* 🚀 Build real-world backend projects
-* 🧠 Strengthen DSA
-* 🌐 Learn scalable backend development
-* 🤝 Contribute to open source
-## Socials:
+🚀 Build real-world backend projects  
+🧠 Strengthen DSA & problem solving  
+🌐 Learn scalable backend architecture  
+🤝 Contribute to open source
+
+---
+
+## 🔗 Connect With Me
 
 <p>
   <a href="https://github.com/Shivampahuja12">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" height="32"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/shivam-pahuja-3b2423324/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/Shivampahuja/">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img src="https://skillicons.dev/icons?i=leetcode" height="32"/>
   </a>
 </p>
 
-## Tech Stack:
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,html,css" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,yaml" />
-</p>
-
-### Backend & APIs
-
-🔗 **REST API** — Designing and working with RESTful backend services
+⭐ *Learn • Build • Improve*
