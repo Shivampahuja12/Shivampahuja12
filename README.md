@@ -9,10 +9,6 @@ I enjoy learning how things work behind the scenes and building my skills in pro
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript" />
-</p>
-
 * ☕ **Java** — OOP & backend development
 * ⚡ **C++** — DSA & problem solving
 * 🔧 **C** — Programming fundamentals
@@ -45,12 +41,38 @@ Currently practicing **Data Structures & Algorithms** and improving problem-solv
 * 🧠 Strengthen DSA
 * 🌐 Learn scalable backend development
 * 🤝 Contribute to open source
+## Socials:
 
-## 🔗 Connect
+<p>
+  <a href="https://github.com/Shivampahuja12">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/shivam-pahuja-3b2423324/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/Shivampahuja/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/shivam-pahuja-3b2423324/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/Shivampahuja/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+## Tech Stack:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,html,css" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,yaml" />
+</p>
+
+### Backend & APIs
+
+🔗 **REST API** — Designing and working with RESTful backend services
