@@ -1,48 +1,56 @@
-# Hi, I'm Shivam 👋
+# Hi, I'm Shivam Pahuja 👋
 
-### Backend Developer | CSE Student
+🎓 **CSE Student @ Chitkara University**
+💻 **Aspiring Backend Developer** | 🧠 DSA & Problem Solving
 
-I'm a Computer Science student at **Chitkara University, Rajpura, Punjab**, interested in backend development and building reliable, scalable applications.
+I enjoy learning how things work behind the scenes and building my skills in programming and backend development.
 
-Currently, I'm focused on strengthening my fundamentals, solving programming problems, and learning how real-world backend systems are designed.
+## 🛠️ Technologies
 
-### 🛠️ Tech Stack
+### Languages
 
-**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript" />
+</p>
 
-* Java
-* JavaScript
-* Python
-* C
-* C++
+* ☕ **Java** — OOP & backend development
+* ⚡ **C++** — DSA & problem solving
+* 🔧 **C** — Programming fundamentals
+* 🐍 **Python** — Programming & scripting
+* 🟨 **JavaScript** — Web & backend development
 
-**Backend & Development**
+### Backend
 
-* Node.js
-* REST APIs
-* Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
 
-### 🚀 Currently Learning
+* 🟢 **Node.js** — Server-side applications & REST APIs
 
-* Backend architecture
-* REST API development
-* Databases
-* Authentication & authorization
-* System design fundamentals
-* Data Structures & Algorithms
+## 🧠 DSA
 
-### 💻 Coding
+Currently practicing **Data Structures & Algorithms** and improving problem-solving skills through LeetCode.
 
-I regularly practice Data Structures & Algorithms and problem solving.
+<a href="https://leetcode.com/u/Shivampahuja/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-* [LeetCode](https://leetcode.com/u/Shivampahuja/)
+## 🌱 Currently Learning
 
-### 🌐 Connect With Me
+**Backend Development • REST APIs • Databases • Authentication • System Design**
 
-* [LinkedIn](https://www.linkedin.com/in/shivam-pahuja-3b2423324/)
+## 🎯 Goals
 
-### 📌 What I'm Working Toward
+* 🚀 Build real-world backend projects
+* 🧠 Strengthen DSA
+* 🌐 Learn scalable backend development
+* 🤝 Contribute to open source
 
-My goal is to become a strong **Backend Developer** by building real-world projects, improving my problem-solving skills, and contributing to meaningful software.
+## 🔗 Connect
 
-> **Learn. Build. Break. Improve. Repeat.**
+<a href="https://www.linkedin.com/in/shivam-pahuja-3b2423324/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Shivampahuja/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
