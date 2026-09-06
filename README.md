@@ -1,7 +1,6 @@
 # Hi, I'm Shivam Pahuja 👋
 
 🎓 CSE Student @ Chitkara University  
-💻 Aspiring Backend Developer | 🧠 DSA & Problem Solving
 
 > Building my skills in backend development, problem solving, and software engineering.
 
